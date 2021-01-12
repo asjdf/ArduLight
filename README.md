@@ -1,4 +1,6 @@
 # ArduLight
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fasjdf%2FArduLight.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fasjdf%2FArduLight?ref=badge_shield)
+
 A simple network lamp consisting of esp8266 and ws2812
 
 一个由ESP8266和WS2812组成的可无线控制的物联网灯
@@ -50,3 +52,6 @@ main-程序文件
 ---
 
 分手快乐
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fasjdf%2FArduLight.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fasjdf%2FArduLight?ref=badge_large)
